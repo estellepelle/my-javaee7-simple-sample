@@ -1,4 +1,4 @@
-A simple Java EE 7 Sample valide pour certif
+A simple Java EE 7 Sample valide pour certif mais non la 8
 =========================
 
 This is a trivial Java EE 7 sample.
