@@ -1,5 +1,5 @@
 A simple Java EE 7 Sample valide pour certif mais non la 8
-objectif savoir developer 
+objectif savoir developer en JAVA EE, Javascript
 =========================
 
 This is a trivial Java EE 7 sample.
